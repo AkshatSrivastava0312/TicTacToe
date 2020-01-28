@@ -1,0 +1,36 @@
+body{
+  background: url(image.jpg) no-repeat center center fixed;
+}
+.text-center{
+  margin-top: 50px;
+}
+.container{
+  margin-top: 3%;
+  text-align: center;
+  height:650px;
+  width: 1000px;
+  background-color: #303952;
+  color: white;
+}
+.row{
+  text-align: center;
+  margin-left:22%;
+  height:200px;
+  width: 550px;
+  line-height: 200px;
+  }
+.r0,.r1{
+  border-bottom: solid red;
+  }
+.col-4{
+  text-align: center;
+  font-size: 50px;
+  vertical-align: bottom;
+  }
+.col-4:hover{
+  cursor:pointer;
+  background-color: #ea8685;
+}
+.c0,.c3,.c6,.c1,.c4,.c7{
+  border-right: solid red;
+  }
